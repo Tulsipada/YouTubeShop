@@ -1,5 +1,5 @@
 from lib.multi import Threader
-from lib.auth import *
+from lib.auth import ServiceLogin
 import lib.execption as err
 import lib.action as YT
 import lib.cli as cli
